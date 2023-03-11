@@ -5,3 +5,6 @@ vmoaasdasd
 asdasdasd
 asdasd
 !!
+buscamos generar un 
+conflicto con los 
+cambios producidos en GitHub
